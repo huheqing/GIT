@@ -2,7 +2,7 @@
 #include<iostream>
 #include"Node.h"
 using namespace std;
-//huheqing
+//胡贺庆
 int main(){
 	//3 5 7 2 9 1 8
 	Node node1;
@@ -34,7 +34,7 @@ int main(){
 	//pList->ListDelete(1,&node6);
 
 	pList->NextElem(&node5, &temp);
-	cout << "λ��"<<pList->LocateElem(&node4) << endl;
+	cout << "Î»ÖÃ"<<pList->LocateElem(&node4) << endl;
 
 	pList->ListTraverse();
 
