@@ -2,6 +2,7 @@
 #include<iostream>
 #include"Node.h"
 using namespace std;
+//huheqing
 int main(){
 	//3 5 7 2 9 1 8
 	Node node1;
